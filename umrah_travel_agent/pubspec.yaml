@@ -1,0 +1,20 @@
+name: umrah_travel_agent
+description: A new Flutter project.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.27.0 # Placeholder for latest version
+  firebase_auth: ^4.17.9 # Placeholder for latest version
+  cloud_firestore: ^4.15.9 # Placeholder for latest version
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

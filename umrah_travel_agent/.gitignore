@@ -1,0 +1,54 @@
+# General
+.DS_Store
+.idea/
+.vscode/
+
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+*.iml
+*.ipr
+*.iws
+
+# Android
+android/app/build/
+android/build/
+android/.gradle/
+android/gradle/
+android/local.properties
+
+# iOS
+ios/build/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+ios/Flutter/app.flx
+ios/Flutter/flutter_assets/
+ios/Runner/GeneratedPluginRegistrant.h
+ios/Runner/GeneratedPluginRegistrant.m
+ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+ios/Runner.xcworkspace/xcuserdata/
+
+# Web
+web/build/
+
+# Windows
+windows/build/
+windows/flutter/ephemeral/
+windows/GeneratedPluginRegistrant.h
+windows/GeneratedPluginRegistrant.cc
+
+# Linux
+linux/build/
+linux/flutter/ephemeral/
+linux/GeneratedPluginRegistrant.h
+linux/GeneratedPluginRegistrant.cc
+
+# macOS
+macos/build/
+macos/Flutter/ephemeral/
+macos/GeneratedPluginRegistrant.h
+macos/GeneratedPluginRegistrant.m
